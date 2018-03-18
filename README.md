@@ -5,4 +5,8 @@ ZCZC W01 Telah mencoba demo Week01
  
 ZCZC W02 Demo: done!
 
-ZCZC W03
+ZCZC W03 Demo: done!
+
+ZCZC W04 Demo: done!
+
+ZCZC W05 Demo: done!
